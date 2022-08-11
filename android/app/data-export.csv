@@ -1,0 +1,10 @@
+# ----------------------------------------
+# Events
+# ----------------------------------------
+Event Name,Count,Users,Mark as conversion
+app_remove,1,1,false
+first_open,2,2,true
+notification_foreground,27,2,false
+notification_receive,37,2,false
+screen_view,20,2,false
+session_start,22,2,false
